@@ -1,0 +1,30 @@
+[2026-06-13 14:25:48] phpBin=/usr/bin/php8.1
+[2026-06-13 14:25:48] bgScript=/var/www/html/executor_bg.php
+[2026-06-13 14:25:48] id=2 execucaoId=1
+[2026-06-13 14:25:48] cmd=nohup /usr/bin/php8.1 '/var/www/html/executor_bg.php' '2' '1' >> '/var/www/html/logs/cronmgr_bg.log' 2>&1 &
+[2026-06-13 14:25:48] retval=0
+[2026-06-13 14:25:48] phpBin=/usr/bin/php8.1
+[2026-06-13 14:25:48] bgScript=/var/www/html/executor_bg.php
+[2026-06-13 14:25:48] id=2 execucaoId=2
+[2026-06-13 14:25:48] cmd=nohup /usr/bin/php8.1 '/var/www/html/executor_bg.php' '2' '2' >> '/var/www/html/logs/cronmgr_bg.log' 2>&1 &
+[2026-06-13 14:25:48] retval=0
+[2026-06-13 15:51:19] phpBin=/usr/bin/php8.1
+[2026-06-13 15:51:19] bgScript=/var/www/html/executor_bg.php
+[2026-06-13 15:51:19] id=2 execucaoId=3
+[2026-06-13 15:51:19] cmd=nohup /usr/bin/php8.1 '/var/www/html/executor_bg.php' '2' '3' >> '/var/www/html/logs/cronmgr_bg.log' 2>&1 &
+[2026-06-13 15:51:19] retval=0
+[2026-06-13 15:51:19] phpBin=/usr/bin/php8.1
+[2026-06-13 15:51:19] bgScript=/var/www/html/executor_bg.php
+[2026-06-13 15:51:19] id=2 execucaoId=4
+[2026-06-13 15:51:19] cmd=nohup /usr/bin/php8.1 '/var/www/html/executor_bg.php' '2' '4' >> '/var/www/html/logs/cronmgr_bg.log' 2>&1 &
+[2026-06-13 15:51:19] retval=0
+[2026-06-14 10:37:19] phpBin=/usr/bin/php8.1
+[2026-06-14 10:37:19] bgScript=/var/www/html/executor_bg.php
+[2026-06-14 10:37:19] id=2 execucaoId=6
+[2026-06-14 10:37:19] cmd=nohup /usr/bin/php8.1 '/var/www/html/executor_bg.php' '2' '6' >> '/var/www/html/logs/cronmgr_bg.log' 2>&1 &
+[2026-06-14 10:37:19] retval=0
+[2026-06-14 10:37:19] phpBin=/usr/bin/php8.1
+[2026-06-14 10:37:19] bgScript=/var/www/html/executor_bg.php
+[2026-06-14 10:37:19] id=2 execucaoId=7
+[2026-06-14 10:37:19] cmd=nohup /usr/bin/php8.1 '/var/www/html/executor_bg.php' '2' '7' >> '/var/www/html/logs/cronmgr_bg.log' 2>&1 &
+[2026-06-14 10:37:19] retval=0
